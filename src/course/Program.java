@@ -3,7 +3,7 @@ package course;
 public class Program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("São Paulo Futebol Clube");
 
 	}
 
